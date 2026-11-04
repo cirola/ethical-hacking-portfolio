@@ -1,0 +1,13 @@
+*.pcap
+*.pcapng
+*.cap
+*.raw
+*.vmdk
+*.ova
+*.iso
+*.hashes
+*.shadow
+*.sam
+.env
+credentials*
+tokens*
